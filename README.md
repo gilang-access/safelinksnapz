@@ -1,0 +1,2 @@
+# safelinksnapz
+safelink
